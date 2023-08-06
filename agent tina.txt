@@ -1,2 +1,212 @@
 https://universe.roboflow.com/silvia-hernandez01-ustabuca-edu-co/etiquetaricardo1/dataset/2
 
+https://universe.roboflow.com/silvia-hernandez01-ustabuca-edu-co/etiquetaricardo1
+https://universe.roboflow.com/moises-arias-mg04u/testtenedorcuchillo
+
+https://universe.roboflow.com/silvia-hernandez01-ustabuca-edu-co/etiquetaricardo1
+fight reference 
+
+fight reference
+
+bala movies
+
+2009	Vennila Kabadi Kuzhu	Green tick	Green tick	Red X	
+2010	Naan Mahaan Alla	Green tick	Green tick	Red X	
+2011	Azhagarsamiyin Kudhirai	Green tick	Green tick	Red X	National Film Award for Best Popular Film Providing Wholesome Entertainment
+Rajapattai	Green tick	Green tick	Red X	
+2013	Aadhalal Kadhal Seiveer	Green tick	Green tick	Red X	
+Pandiya Naadu	Green tick	Green tick	Red X	
+2014	Jeeva	Green tick	Green tick	Green tick	
+2015	Paayum Puli	Green tick	Green tick	Red X	
+2016	Vil Ambu	Red X	Red X	Green tick	
+Maaveeran Kittu	Green tick	Green tick	Red X	
+2017	Nenjil Thunivirundhal	Green tick	Green tick	Red X	Simultaneously shot in Telugu as C/o Surya
+2018	Genius	Green tick	Green tick	Red X	
+2019	Vennila Kabaddi Kuzhu 2	Red X	Green tick	Red X	
+Kennedy Club	Green tick	Green tick	Red X	
+Champion	Green tick	Green tick	Red X	
+2021	Eeswaran	Green tick	Green tick	Red X	
+2022	Veerapandiyapuram	Green tick	Green tick	Red X	
+Kuttram Kuttrame	Green tick	Green tick	Red X	Direct television premiere on Kalaignar TV
+
+suseendran movies
+
+2009	Vennila Kabadi Kuzhu	Green tick	Green tick	Red X	
+2010	Naan Mahaan Alla	Green tick	Green tick	Red X	
+2011	Azhagarsamiyin Kudhirai	Green tick	Green tick	Red X	National Film Award for Best Popular Film Providing Wholesome Entertainment
+Rajapattai	Green tick	Green tick	Red X	
+2013	Aadhalal Kadhal Seiveer	Green tick	Green tick	Red X	
+Pandiya Naadu	Green tick	Green tick	Red X	
+2014	Jeeva	Green tick	Green tick	Green tick	
+2015	Paayum Puli	Green tick	Green tick	Red X	
+2016	Vil Ambu	Red X	Red X	Green tick	
+Maaveeran Kittu	Green tick	Green tick	Red X	
+2017	Nenjil Thunivirundhal	Green tick	Green tick	Red X	Simultaneously shot in Telugu as C/o Surya
+2018	Genius	Green tick	Green tick	Red X	
+2019	Vennila Kabaddi Kuzhu 2	Red X	Green tick	Red X	
+Kennedy Club	Green tick	Green tick	Red X	
+Champion	Green tick	Green tick	Red X	
+2021	Eeswaran	Green tick	Green tick	Red X	
+2022	Veerapandiyapuram	Green tick	Green tick	Red X	
+Kuttram Kuttrame	Green tick	Green tick	Red X	Direct television premiere on Kalaignar TV
+
+
+
+
+
+fight reference 
+
+Ram gopal verma movies
+
+
+Year	Film	Language	Director	Producer	Writer	Notes
+1989	Siva	Telugu	Yes		Yes	Debut
+1990	Shiva	Hindi	Yes			Remake of Siva
+1991	Kshana Kshanam	Telugu	Yes		Yes	Dubbed into Hindi as Hairaan
+1992	Antham
+Drohi	Telugu
+Hindi	Yes		Yes	
+Raat
+Raatri	Hindi
+Telugu	Yes	Yes	Yes	
+1993	Gaayam	Telugu	Yes		Yes	Based on The Godfather
+Money	Telugu		Yes		
+Thiruda Thiruda	Tamil			Yes	
+1994	Govinda Govinda	Telugu	Yes		Yes	
+1995	Rangeela	Hindi	Yes	Yes	Yes	Debut in Hindi cinema
+Money Money	Telugu		Yes		
+1996	Deyyam	Telugu	Yes		Yes	
+Gulabi	Telugu		Yes		
+1997	Anaganaga Oka Roju	Telugu	Yes	Yes	Yes	
+Daud	Hindi	Yes		Yes	
+1998	Satya	Hindi	Yes	Yes		
+Dil Se..	Hindi		Yes		Co-Produced along with Mani Ratnam and Shekhar Kapur
+Wife of V. Varaprasad	Telugu		Yes		
+1999	Prema Katha	Telugu	Yes		Yes	
+Kaun	Hindi	Yes			
+Mast	Hindi	Yes			
+Shool	Hindi		Yes	Yes	
+2000	Jungle	Hindi	Yes			
+2001	Love Ke Liye Kuchh Bhi Karega	Hindi		Yes		Remake of Money
+Pyaar Tune Kya Kiya	Hindi		Yes		
+2002	Company	Hindi	Yes			
+Road	Hindi		Yes		
+2003	Bhoot	Hindi	Yes		Yes	
+Darna Mana Hai	Hindi		Yes		Anthology
+2004	Ek Hasina Thi	Hindi		Yes		
+Ab Tak Chhappan	Hindi		Yes		
+Vaastu Shastra	Hindi		Yes		
+Gayab	Hindi		Yes		
+Naach	Hindi	Yes	Yes		
+Madhyanam Hathya	Telugu	Yes			
+2005	My Wife's Murder	Hindi		Yes		Remake of Madhyanam Hathya
+Main Madhuri Dixit Banna Chahti Hoon	Hindi		Yes		
+D	Hindi		Yes		
+James	Hindi		Yes		
+Sarkar	Hindi	Yes	Yes	Yes	
+Mr Ya Miss	Hindi		Yes		
+2006	Darwaza Bandh Rakho	Hindi		Yes		
+Shock	Telugu		Yes	Yes	
+Shiva	Hindi	Yes	Yes		
+Darna Zaroori Hai	Hindi	Yes	Yes		Anthology
+2007	Nishabd	Hindi	Yes	Yes	Yes	
+Ram Gopal Varma Ki Aag	Hindi	Yes	Yes	Yes	
+Darling	Hindi	Yes			
+Go	Hindi		Yes		
+2008	Sarkar Raj	Hindi	Yes	Yes	Yes	
+Contract	Hindi	Yes			
+Phoonk	Hindi	Yes		Yes	
+Raksha	Telugu		Yes	Yes	Remake of Phoonk
+2009	Agyaat	Hindi	Yes	Yes	Yes	Based on Predator
+2010	Rann	Hindi	Yes		Yes	
+Rakta Charitra	Telugu
+Hindi	Yes		Yes	
+Rakta Charitra 2	Telugu
+Hindi	Yes		Yes	
+Phoonk 2	Hindi		Yes		
+2011	Katha Screenplay Darsakatvam Appalaraju	Telugu	Yes		Yes	
+Shabri	Hindi		Yes		
+Dongala Mutha	Telugu	Yes		Yes	
+Bejawada	Telugu		Yes	Yes	
+Not a Love Story	Hindi	Yes		Yes	
+2012	Department	Hindi	Yes		Yes	
+Bhoot Returns	Hindi	Yes		Yes	
+2013	The Attacks of 26/11	Hindi	Yes		Yes	
+Psycho	Telugu		Yes	Yes	
+Satya 2	Telugu
+Hindi	Yes		Yes	
+2014	Rowdy	Telugu	Yes		Yes	Based on Sarkar
+Ice Cream	Telugu	Yes		Yes	
+Anukshanam	Telugu	Yes		Yes	
+Ice Cream 2	Telugu	Yes		Yes	
+2015	365 Days	Telugu	Yes		Yes	
+2016	Killing Veerappan	Kannada	Yes		Yes	
+Attack	Telugu	Yes			
+Veerappan	Hindi	Yes		Yes	Remake of Killing Veerappan
+Vangaveeti	Telugu	Yes		Yes	
+2017	Sarkar 3	Hindi	Yes			
+2018	Officer	Telugu	Yes	Yes		
+Bhairava Geetha	Telugu
+Kannada		Yes	Yes	
+2019	Lakshmi's NTR	Telugu	Yes		Yes	
+Amma Rajyam Lo Kadapa Biddalu	Telugu	Yes		Yes	
+2020	Murder	Telugu		Yes		
+2021	D Company	Hindi	Yes		Yes	
+12 'O' Clock	Hindi	Yes	Yes	Yes	
+Deyyam	Telugu	Yes			
+2022	Konda	Telugu	Yes	Yes	
+
+
+fight reference 
+
+anurag kashyap
+
+Gangs of Wasseypur – Part 1
+Gangs of Wasseypur – Part 2
+
+
+kannda movies
+
+Related
+What are your Top 10 Kannada movies and why?
+Difficult to list just top 10 movies because there are way too many. But here's my top 10 in no particular order.
+
+1. Mayura
+
+Being a fan of history, I loved this movie. Definitely one of the best ever movies starring Dr Rajkumar
+
+2. Lucia
+
+Pawan Kumar did to Kannada cinema what Christopher Nolan did to Hollywood. Our answer to Inception is brilliant.
+
+3. Om
+
+The first ever movie on rowdyism was just epic and was instrumental in Upendra and Shivarajkumar's superstardom
+
+4. Beladingala Bale
+
+One of Anant Nag's best movies and even though the ending is a bit tragic, I loved watching the whole movie.
+
+5. Nishkarsha
+
+Wow this is probably one of its kind in Kannada cinema. A truly exceptional movie.
+
+6. America America!
+
+Again a great movie that had Ramesh in his typical Thyagaraj roles. The movie showed the difference between Indian and American culture beautifully.
+
+7. Accident (Shankar Nag)
+
+The movie showed the real truth in India where people of power can get away with ease. Salman Khan would definitely not like this amazing movie :D
+
+8. A
+
+Uppi is God and God is great! That's it, period.
+
+9. Ulidavaru Kandante
+
+Again a very unique movie which was the best of 2014 for me. Excellent effort by Rakshit Shetty
+
+10. RangiTaranga
+
+The latest entry to this list put Kannada cinema on the global map.
